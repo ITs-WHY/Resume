@@ -2,21 +2,15 @@
      <h2>王华洋</h2>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             15638534763
+             Phone：15638534763
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             whyz2z@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">www.cnblogs.com/ITs-WHY/</a>
+             Email：whyz2z@163.com
          </span>
      </div>
  </center>
+ 
 ## 简介 
 
 24岁，男，宁波，两年 Web **前端**开发经验，熟悉 **React.js**、**Vue.js** 框架，参加过多个项目核心模块的开发。熟练掌握前端**调试**工具与方法，快速定位并解决**性能**问题。熟悉 Chrome **内存管理**机制，解决应用崩溃、内存溢出等问题。
